@@ -1,3 +1,6 @@
 [submodule "pathogen.vim"]
 	path = pathogen.vim
 	url = git://github.com/vim-scripts/pathogen.vim.git
+[submodule "bundle/The-NERD-tree"]
+	path = bundle/The-NERD-tree
+	url = git://github.com/vim-scripts/The-NERD-tree.git
