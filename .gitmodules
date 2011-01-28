@@ -4,6 +4,3 @@
 [submodule "bundle/The-NERD-tree"]
 	path = bundle/The-NERD-tree
 	url = git://github.com/vim-scripts/The-NERD-tree.git
-[submodule "bundle/Notes"]
-	path = bundle/Notes
-	url = git://github.com/vim-scripts/Notes.git
